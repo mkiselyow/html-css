@@ -1,0 +1,24 @@
+$main-font1: "SFUIText-Light";
+$button-font: "GOTHICB";
+$headers-font: "BebasNeue Bold";
+$light-font: "LatoRegular";
+$main-text-color:     #000000;
+$headers-text-color:  #00888d;
+$lines-color:         #65ca58;
+
+@font-face {
+  font-family: "SFUIText-Light";
+  src: url("../fonts/SFUIText-Light.otf");
+}
+@font-face {
+  font-family: "GOTHICB";
+  src: url("../fonts/GOTHICB.TTF");
+}
+@font-face {
+  font-family: "BebasNeue Bold";
+  src: url("../fonts/BebasNeue Bold.ttf");
+}
+@font-face {
+  font-family: "LatoRegular";
+  src: url("../fonts/LatoRegular.ttf");
+}
